@@ -1,0 +1,252 @@
+Website Analysis Report
+
+==================================================
+
+Website: https://studyaffairs.ng/
+
+
+Outdated Software: No
+
+Unsecured Forms: 0 found
+
+SSL Certificate: Valid
+
+  - Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'R11'),))
+
+Security Headers:
+
+  - Content-Security-Policy: None
+
+  - X-Content-Type-Options: None
+
+  - X-Frame-Options: None
+
+  - Strict-Transport-Security: None
+
+  - X-XSS-Protection: None
+
+SQL Injection Vulnerability: No
+
+XSS Vulnerability: No
+
+External Links: 7 found
+
+  - https://studyaffairs.ng
+
+  - https://studyaffairs.ng
+
+  - https://studyaffairs.ng
+
+  - https://www.facebook.com/studyaffairsng?mibextid=ZbWKwL
+
+  - https://twitter.com/StudyAffairsNG?t=SY-1uFf4DA-1HyyxfZTeHw&s=09
+
+  - https://www.linkedin.com/company/study-affairs/
+
+  - https://instagram.com/studyaffairs?igshid=ZDdkNTZiNTM=
+
+JavaScript Libraries: 66 found
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.19.4
+
+  - https://www.googletagmanager.com/gtag/js?id=G-5WEX1CDZQJ
+
+  - https://studyaffairs.ng/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=6f970dc2
+
+  - https://studyaffairs.ng/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=6f970dc2
+
+  - https://studyaffairs.ng/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=6f970dc2
+
+  - https://studyaffairs.ng/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=6f970dc2
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.1.43
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.43
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.43
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.43
+
+  - https://studyaffairs.ng/wp-content/plugins/koko-analytics/assets/dist/js/script.js?ver=1.3.10
+
+  - https://studyaffairs.ng/wp-content/plugins/add-to-calendar-button/lib/atcb.min.js?ver=2.6.18
+
+  - https://studyaffairs.ng/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/jquery.magnific-popup.min.js?ver=1.1.0
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/juxtapose.js?ver=1.1.2
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/typed.min.js?ver=2.0.11
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/owl.carousel.min.js?ver=2.3.4
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/jquery.countdown.min.js?ver=1.6.2
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/jquery.matchHeight.min.js?ver=0.7.2
+
+  - https://studyaffairs.ng/wp-content/plugins/jeg-elementor-kit/assets/js/isotope/isotope.min.js?ver=3.0.6
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/packery-mode.pkgd.min.js?ver=2.0.1
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/theia-sticky-sidebar.min.js?ver=1.8.2
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/scripts.js?ver=1.8.2
+
+  - https://studyaffairs.ng/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.1.43
+
+  - https://studyaffairs.ng/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.8.9
+
+  - https://studyaffairs.ng/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.2.10081
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4
+
+  - https://studyaffairs.ng/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.6.3
+
+  - https://studyaffairs.ng/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.0.5
+
+  - https://studyaffairs.ng/wp-content/plugins/facebook-conversion-pixel/video.js?ver=6.5.5
+
+  - https://studyaffairs.ng/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.36
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+
+  - https://studyaffairs.ng/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials.js?ver=2.6.3
+
+  - https://studyaffairs.ng/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.js?ver=2.9.3
+
+  - https://studyaffairs.ng/wp-content/plugins/metform/public/assets/js/htm.js?ver=3.8.9
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+
+  - https://studyaffairs.ng/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+
+  - https://studyaffairs.ng/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+
+  - https://studyaffairs.ng/wp-includes/js/dist/element.min.js?ver=cb762d190aebbec25b27
+
+  - https://studyaffairs.ng/wp-content/plugins/metform/public/assets/js/app.js?ver=3.8.9
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.0
+
+  - https://studyaffairs.ng/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+
+  - https://studyaffairs.ng/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.0
+
+  - https://studyaffairs.ng/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.0
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/elementor/js/naevents-elementor.js?ver=2136663947
+
+  - https://studyaffairs.ng/wp-content/plugins/events-addon-for-elementor/assets/js/Chart.min.js?ver=2.6.0
+
+  - https://studyaffairs.ng/wp-includes/js/underscore.min.js?ver=1.13.4
+
+  - https://studyaffairs.ng/wp-includes/js/wp-util.min.js?ver=6.5.5
+
+  - https://studyaffairs.ng/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.9.5
+
+Broken Links: 2 found
+
+  - https://studyaffairs.ng/study-abroad-simplified-navigating-permanent-residency-visa-optionsstudy-abroad-simplified-navigating-permanent-residency-visa-options/https://studyaffairs.ng/study-abroad-simplified-navigating-permanent-residency-visa-optionsstudy-abroad-simplified-navigating-permanent-residency-visa-options/: 404
+
+  - https://www.linkedin.com/company/study-affairs/: 999
+
+Performance: Load time - 1.2816979885101318s, Status code - 200
+
+SEO Analysis:
+
+  - Title: Study Affairs
+
+  - Meta Description: None
+
+  - h1: 3 found
+
+  - h2: 26 found
+
+  - h3: 1 found
+
+  - h4: 7 found
+
+  - h5: 1 found
+
+  - h6: 0 found
+
+  - Alt texts: 53 found
+
+Mobile Friendly: Yes
+
+Accessibility:
+
+  - Alt texts: 53 found
+
+  - Aria labels: 41 found
+
+  - Missing alt texts: 6 found
+
+DNS Information:
+
+  - A: 192.250.239.103
+
+  - MX: 0 studyaffairs-ng.mail.protection.outlook.com.
+
+  - NS: ns1.mysecurecloudhost.com., ns3.mysecurecloudhost.com., ns2.mysecurecloudhost.com., ns4.mysecurecloudhost.com.
+
+Technologies:
+
+  - web-servers: ['LiteSpeed']
+
+  - font-scripts: ['Font Awesome', 'Google Font API']
+
+  - javascript-frameworks: ['Moment.js', 'jQuery', 'React', 'Underscore.js', 'jQuery UI']
+
+  - widgets: ['OWL Carousel']
+
+  - photo-galleries: ['jQuery']
+
+  - cms: ['WordPress']
+
+  - programming-languages: ['PHP']
+
+  - blogs: ['PHP', 'WordPress']
+
+Content Analysis:
+
+  - Polarity: 0.2841848102877515
+
+  - Subjectivity: 0.35925536881419234
+
+==================================================
